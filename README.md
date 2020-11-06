@@ -14,6 +14,10 @@ Este repositorio contiene las memorias de las diferentes presentaciones realizad
 - [Sequence Analysis](./SequenceAnalysis/)
 - [Software & Tools](./Software&Tools/)
 
+## Other Resources
+
+- [Links](./links.md)
+
 ## Contact Us
 
 **Email:** machinelearning.colombia@gmail.com  
